@@ -23,8 +23,3 @@ This project focuses on developing a deep learning model to predict Amazon produ
 ## Model Creation
 - Deep Learning Approach using CNN & LSTM:
   - Tokenization, Padding Sequences, Model Building, Training, Predictions.
-
-## Deployment
-- Deployment through app.py using Flask for a web application.
-- Global Deployment using Render: [Webpage Link](https://amazon-review.onrender.com)
-- GitHub Repository: [GitHub Repo](https://github.com/abdullahfirdowsi/amazon-review)
